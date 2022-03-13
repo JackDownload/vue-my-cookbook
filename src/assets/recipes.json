@@ -1,8 +1,8 @@
 {
   "recipes": [
     {
-      "id": "test",
-      "title": "test",
+      "id": "dsadikom",
+      "title": "asdas салат с базиликом",
       "servings": 2,
       "ingredients": {
         "Фета": "250 г",
@@ -33,8 +33,8 @@
       "feature": "fast"
     },
     {
-      "id": "Svinina-s-kartoshkoi-v-pakete-v-dukhovke",
-      "title": "Свинина с картошкой в пакете в духовке",
+      "id": "ttt-s-kartoshkoi-v-pakete-v-dukhovke",
+      "title": "tttt с картошкой в пакете в духовке",
       "servings": 6,
       "ingredients": {
         "Шея свиная": "1 кг",
@@ -58,7 +58,7 @@
       "feature": "oven"
     },
     {
-      "id": "Makaroni-po-flotski",
+      "id": "Maka0roni-po-flotski",
       "title": "Макароны по-флотски",
       "servings": 4,
       "ingredients": {
@@ -1269,8 +1269,8 @@
       "feature": "fast"
     },
     {
-      "id": "Testo-dlya-blinov",
-      "title": "Тесто для блинов",
+      "id": "valami",
+      "title": "valami",
       "servings": 2,
       "ingredients": {
         "Молоко": "500 мл",
@@ -1289,11 +1289,11 @@
       "feature": "fast"
     },
     {
-      "id": "Zapechennie-kurinie-okorochka",
-      "title": "Запеченные куриные окорочка",
+      "id": "Teszt",
+      "title": "teszt",
       "servings": 4,
       "ingredients": {
-        "Окорочок цыпленка-бройлера с кожей": "700 г",
+        "ize": "700 ",
         "Перец черный молотый": "По вкусу",
         "Приправа карри": "По вкусу",
         "Хмели-сунели": "По вкусу",
